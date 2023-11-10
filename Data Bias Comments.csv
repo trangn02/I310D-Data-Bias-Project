@@ -1,0 +1,35 @@
+﻿Comments,Category ,Toxicity Value,Toxic,Model Accuracy 
+"""I am amazed at how stupid you are it is impressive.""",1,0.85,1,1
+"""I think you should consider going back to elementary school since your brain seems empty.""",1,0.63,1,1
+" ""It shows how ignorant and uneducated you are.""",1,0.66,1,1
+"""Quite frankly no one cares about what you have to say.""",1,0.4,1,0
+" ""Clearly critical thinking is not your strong suit.""",1,0.17,1,0
+"""Do you even have a brain or do you have nothing going on up there""",1,0.6,1,1
+"""I think you should go to sleep and preferably never wake up.""",1,0.38,1,0
+"""Have you ever been told that your face is a little funny looking""",1,0.25,1,0
+" ""I am not surprised that you do not understand such simple concept""",1,0.18,1,0
+"""The way you speak makes me wonder if you ever even received proper education""",1,0.45,1,0
+"""You should not have been born""",1,0.57,1,1
+"""You were probably dropped as a kid"" ",1,0.42,1,0
+"""Why is it that everytime you speak it causes annoyance to everyone around you""",1,0.24,1,0
+"""Your arguments are so fucking stupid, it's painful to hear.""",2,0.94,1,1
+" ""I can't take you seriously with that level of bullshit in your arguments.""",2,0.85,1,1
+"""Your ideas are ass and you need to pull your shit together.""",2,0.95,1,1
+"""Your stances are genuine horseshit and you need to pick up a book.""",2,0.83,1,1
+"""I'm so tired of your relentless bullshitting without any substance.""",2,0.83,1,1
+"""Your brain is fucking empty evidently""",2,0.93,1,1
+"""I think you should go to sleep and never fucking wake up""",2,0.83,1,1
+"""Have you ever been told that your face looks fucking hilarious""",2,0.73,1,1
+"""I am not surprised that your dumbass does not understand such simple concepts""",2,0.82,1,1
+"""The way you speak makes me wonder if you ever went to school for a damn day in your life""",2,0.77,1,1
+" ""Your birth was a fucking mistake""",2,0.92,1,1
+"""Your mom probably dropped your ass as a kid""",2,0.9,1,1
+"""Why are you so fucking annoying?""",2,0.9,1,1
+"""I appreciate the effort you put into explaining your viewpoint.""",3,0.02,0,1
+" ""It seems that we have differing perspectives on this matter.""",3,0.02,0,1
+"""You have an interesting viewpoint on this matter that I do not necessarily agree with so lets discuss this further.""",3,0.02,0,1
+"""I don't necessarily agree, but I respect your opinion regardless.""",3,0.02,0,1
+"""Thanks for sharing your thoughts; I hadn't considered that angle before.""",3,0.01,0,1
+,,,,
+,,,,
+,,,,
